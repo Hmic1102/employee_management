@@ -1,0 +1,12 @@
+/Users/hmic/Desktop/employee-management/src/main/java/com/hmic/EmployeeManagementApplication.java
+/Users/hmic/Desktop/employee-management/src/main/java/com/hmic/pojo/Result.java
+/Users/hmic/Desktop/employee-management/src/main/java/com/hmic/mapper/DeptMapper.java
+/Users/hmic/Desktop/employee-management/src/main/java/com/hmic/service/EmpService.java
+/Users/hmic/Desktop/employee-management/src/main/java/com/hmic/service/impl/EmpServiceImpl.java
+/Users/hmic/Desktop/employee-management/src/main/java/com/hmic/controller/DeptController.java
+/Users/hmic/Desktop/employee-management/src/main/java/com/hmic/mapper/EmpMapper.java
+/Users/hmic/Desktop/employee-management/src/main/java/com/hmic/pojo/Dept.java
+/Users/hmic/Desktop/employee-management/src/main/java/com/hmic/service/DeptService.java
+/Users/hmic/Desktop/employee-management/src/main/java/com/hmic/service/impl/DeptServiceImpl.java
+/Users/hmic/Desktop/employee-management/src/main/java/com/hmic/controller/EmpController.java
+/Users/hmic/Desktop/employee-management/src/main/java/com/hmic/pojo/Emp.java
